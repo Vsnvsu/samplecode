@@ -59,8 +59,8 @@ function set__adate(){
         day.setUTCDate(day.getUTCDate() + 1)
     }
 
-    NextDateWeb3907("{WEBDAY}", "7");
-    datetime_f3907("{WEBDAY}", "7");
+    NextDateWeb3907("{WEBDAY}", "8");
+    datetime_f3907("{WEBDAY}", "8");
     NextDateWeb3907("{WEBMONTH}", "октября");
     datetime_f3907("{WEBMONTH}", "октября");
     NextDateWeb3907("{WEBTIME}", "15:00");
